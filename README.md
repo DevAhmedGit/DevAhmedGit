@@ -9,5 +9,5 @@
 - Currently Learning: Flutter  
 
 ## 🚀 Interests  
-- 🎮 Game Development  
-- 💡 Cutting-edge Technologies & Practical Projects
+- 📱 Building Mobile Applications  
+- 💡 Exploring Cutting-edge Technologies & Applying Them in Real Projects
