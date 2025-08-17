@@ -9,5 +9,5 @@
 - Currently Learning: Flutter  
 
 ## 🚀 Interests  
-- 📱 Building Mobile Applications  
+- 📱 Building Applications with **Flutter**  
 - 💡 Exploring Cutting-edge Technologies & Applying Them in Real Projects
