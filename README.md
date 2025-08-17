@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Ahmed Qwisy  
 
-🎓 Computer Science student at **Zewail University**  
+🎓 Software Development student at **Zewail University**  
 
 ## 🧑‍💻 About Me  
-- Major: Computer Science  
+- Major: Software Development  
 - Year: 2nd Year  
 - Completed: Python, C++ (OOP), Dart  
 - Currently Learning: Flutter  
